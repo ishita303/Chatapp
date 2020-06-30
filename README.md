@@ -1,5 +1,5 @@
 # Realtime Chat Application
-![Chat Application](main.jpg)
+![Chat Application](main.png)
 
 ### [Live Site](https://realtime-chat-application.netlify.com)
 
